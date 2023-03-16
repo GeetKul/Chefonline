@@ -1,0 +1,226 @@
+
+<!DOCTYPE html>
+ 
+<html>
+ 
+    <head>
+	
+	    <title> My Personal Website </title>
+		<link rel="Home" href="index.html">
+		<link rel="stylesheet" href="styles.css">
+		
+		<meta charset="utf-8">
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8" >
+        <meta name="viewport" content="width=device-width, initial-scale=1" >
+		
+		
+		
+		
+    <style>
+	
+	
+	
+    h2.Courses {
+     position:absolute;
+     right: 20px;
+     left: 50px;
+     top: 140px;
+    }
+  
+    h3{
+	position: absolute;
+	
+	 }
+	 
+	 
+  
+    div.Courses {
+    position: absolute;
+    right: 20px;
+    left: 50px;
+    width: 800px;
+    height: 250px;
+    top: 200px;
+    
+   } 
+
+    h3.Web {
+    position:absolute;
+    right: 500px;
+    left: 50px;
+    width: 550px;
+    height: 250px;
+    top: 270px;
+    
+    } 	
+	div.Web {
+    position:absolute;
+    right: 500px;
+    left: 50px;
+    width: 550px;
+    height: 250px;
+    top: 320px;
+    
+    } 	
+	  
+  
+	
+	.code {
+    position: absolute;
+    right: 50px;
+    left: 650px;
+    width: 360px;
+    height: 250px;
+    top:280px;
+    
+	
+    }
+
+     h3.Data_Mining {
+    position:absolute;
+    right: 20px;
+    left: 550px;
+    width: 550px;
+    height: 250px;
+    top: 550px;
+    
+    } 
+	
+	div.Data_Mining {
+    position: absolute;
+    right: 20px;
+    left: 550px;
+    width: 550px;
+    height: 250px;
+    top: 600px;
+   
+   
+   } 
+
+    .background {
+    position: absolute;
+    right: 800px;
+    left: 100px;
+    width: 360px;
+    height: 250px;
+    top: 550px;
+    
+      
+	}
+    
+	
+
+
+
+	</style>
+	
+</head>
+	
+	<body style="background-color:#F4F4E1; "/>
+	    
+		<h1>  Geetanjali Kulkarni </h1>
+	
+	     
+		 
+	    <div>
+	
+        <div id="top-bar">
+	
+        <div class="fixed-width">
+		
+  	    <a href="index.html" target="_blank"> Home</a> 
+	
+	    </div>
+	    </div>
+	    </div>
+        <br>
+	
+	    
+		
+		<h2 class= "Courses" > Courses </h2>
+	
+        <div class="Courses">  I have taken the following courses this semester Winter 2023-
+  	
+	    <ul>
+            <li >
+	            Principles of Web Technology
+            </li>
+	
+            <li >
+	            Data mining
+            </li>
+	    </ul>
+		
+	    </div>
+		
+	    
+        <h3 class ="Web" > Principles of Web Technology</h3>
+		
+		<div class= "Web">
+	  
+        <dd>- This course is my favorite course. This course will contain html, CSS, JavaScript, and database languages.
+		      There will be three mini projects and one term project.</dd>
+	    
+		<ul>
+             <li >
+	            Mini Projects- There will be three mini individual projects.
+             </li>
+			 
+			 <br>
+	
+             <li >
+	            Term Project- There will be a team project for this course. Our term project is Restaurant Web Application.
+             </li>
+	
+	
+	    </ul>
+	
+	
+		 
+		  <h4> This is a Principles of Web Technology course related diagram which explains the requirement of coding to develop the web.</h4>
+	    
+		</div>
+	
+	    <img class="code" src="Image.jpg" alt="Web Technology" /> 
+	    <br>
+	
+	    <h3 class="Data_Mining" > Data Mining</h3> 
+		 
+	    <div class= "Data_Mining">
+	
+        <dd>- This course is a challenging course with some programming languages and statistics.</dd>
+     
+        <ul>
+        
+		    <li >
+	            Assignments- There will be 5 assignments for this course.
+            </li>
+	
+        <br>
+
+    		<li >
+	            Project - This project will need more research on the topic. Our team project will be an adaptive social media recommendation system. 
+			    We will use data mining techniques to work on it. 
+             </li>
+	    
+		</ul>
+	
+		
+		<h4> This is a Data mining course world cloud diagram which explains a lot briefly. </h4>
+	
+	       
+		</div>	
+	    
+		<img class="background" src="Image_background.jpg" alt=" Data Mining"/> 
+	    
+		<br>
+	
+	<br>
+	
+	
+	
+	</body>
+	   
+	
+	
+</html>
